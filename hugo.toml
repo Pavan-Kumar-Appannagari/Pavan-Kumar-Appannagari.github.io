@@ -1,0 +1,44 @@
+baseURL = "https://Pavan-Kumar-Appannagari.github.io/"
+languageCode = "en-us"
+title = "Pavan’s Mobile Architecture Notes"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  env = "production"
+  description = "Mobile architecture, Kotlin Multiplatform, iOS/Android consistency, SwiftUI & Compose."
+  author = "Pavan Kumar Appannagari"
+  images = ["cover.png"]
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  [params.homeInfoParams]
+    Title = "Mobile architecture — with a bias for behavioral consistency"
+    Content = "Kotlin Multiplatform (KMP), SwiftUI, Jetpack Compose, testing, and practical patterns for keeping iOS and Android in sync."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Pavan-Kumar-Appannagari"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3   
