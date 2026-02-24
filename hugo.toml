@@ -5,6 +5,15 @@ theme = "PaperMod"
 paginate = 10
 enableRobotsTXT = true
 
+enableEmoji = true
+enableGitInfo = true
+
+[author]
+  name = "Pavan Kumar Appannagari"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   env = "production"
   description = "Mobile architecture, Kotlin Multiplatform, iOS/Android consistency, SwiftUI & Compose."
@@ -34,11 +43,13 @@ enableRobotsTXT = true
     name = "Posts"
     url = "/posts/"
     weight = 1
+
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 2
+
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3   
+    weight = 3
