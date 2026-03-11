@@ -195,6 +195,8 @@ That is not a testing improvement.
 
 It is a design correction.
 
+Written by Pavan Kumar Appannagari — Software Engineer — Mobile Systems & Applied AI
+
 ---
 
 ## Behavioral Consistency Series
