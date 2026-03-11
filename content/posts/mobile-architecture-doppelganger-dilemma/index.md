@@ -3,6 +3,7 @@
 title: "The Doppelgänger Dilemma: Why Your Mobile Apps Look Alike but Act Like Strangers"
 date: 2026-02-19T00:00:00-05:00
 draft: false
+featured: true
 description: "Why iOS and Android apps drift in behavior over time — and how Kotlin Multiplatform enables consistent mobile architecture without sacrificing native UI."
 tags: ["Mobile Architecture", "Kotlin Multiplatform", "iOS", "Android", "SwiftUI", "Jetpack Compose", "Feature Parity"]
 categories: ["Architecture"]
@@ -243,9 +244,8 @@ Written by Pavan Kumar Appannagari — Software Engineer — Mobile Systems & Ap
 
 ---
 
-This is Part 1 of a series on behavioral consistency in mobile architecture.
+## Behavioral Consistency Series
 
-Upcoming:
-• Why Feature Parity Bugs Are Architectural, Not QA Issues
-• Sharing Validation Logic Across iOS and Android with KMP
-• Swift Concurrency vs Kotlin Coroutines: A Mental Model Mapping
+1. **Part 1 — The Doppelgänger Dilemma** *(this article)*
+2. [Part 2 — Why Feature Parity Bugs Are Architectural, Not Testing Failures](/posts/feature-parity-architectural-not-testing/)
+3. Part 3 — Sharing Domain Logic Across Platforms *(coming soon)*

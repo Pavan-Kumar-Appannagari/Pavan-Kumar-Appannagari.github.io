@@ -195,7 +195,10 @@ That is not a testing improvement.
 
 It is a design correction.
 
-### Part of the Behavioral Consistency Series
+---
 
-- Part 1 — The Doppelgänger Dilemma
-- Part 2 — Architectural vs Testing Failures (this article)
+## Behavioral Consistency Series
+
+1. [Part 1 — The Doppelgänger Dilemma](/posts/mobile-architecture-doppelganger-dilemma/)
+2. **Part 2 — Why Feature Parity Bugs Are Architectural, Not Testing Failures** *(this article)*
+3. Part 3 — Sharing Domain Logic Across Platforms *(coming soon)*

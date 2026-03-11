@@ -24,6 +24,7 @@ enableGitInfo = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
   ShowToc = true
   TocOpen = true
 
