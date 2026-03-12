@@ -3,6 +3,12 @@ title: "Why Feature Parity Bugs Are Architectural, Not Testing Failures"
 date: 2026-02-24
 draft: false
 description: "Feature parity issues between iOS and Android are rarely QA failures. They are architectural outcomes of duplicated decision-making. A systems view using Kotlin Multiplatform."
+
+cover:
+  image: "cover.png"
+  alt: "Architectural drift between iOS and Android systems"
+  caption: "Behavioral divergence across platforms"
+
 tags: ["architecture", "mobile", "kotlin multiplatform", "engineering"]
 ---
 
