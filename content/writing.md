@@ -17,6 +17,10 @@ https://pavan-kumar-appannagari.github.io/posts/feature-parity-architectural-not
 
 Part 3 — Sharing Domain Logic Across Platforms *(coming soon)*
 
+
+• From Research Paper to Prototype: Using Generative AI to Automatically Generate Test Cases
+https://pavan-kumar-appannagari.github.io/posts/genai-to-generate-test-cases/
+
 ---
 
 ## External Publications

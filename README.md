@@ -16,6 +16,9 @@ https://medium.com/@pavan.kumar.appannagari/the-doppelg%C3%A4nger-dilemma-why-yo
 • Why Feature Parity Bugs Are Architectural, Not Testing Failures  
 https://pavan-kumar-appannagari.github.io/posts/feature-parity-architectural-not-testing/
 
+• From Research Paper to Prototype: Using Generative AI to Automatically Generate Test Cases
+https://pavan-kumar-appannagari.github.io/posts/genai-to-generate-test-cases/
+
 ---
 
 ## Current Focus

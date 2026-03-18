@@ -198,6 +198,14 @@ For me, this project was a reminder that the most interesting engineering experi
 
 **What becomes possible when yesterday’s research finally meets the tools capable of bringing it to life?**
 
+---
+### Cross-platform Links
+**Also published on:**
+* **DEV Community:** [From Research Paper to Prototype](https://dev.to/pavan-kumar-appannagari/from-research-paper-to-prototype-using-generative-ai-to-automatically-generate-test-cases-418m)
+* **Medium:** [From Research Paper to Prototype](https://medium.com/@pavan.kumar.appannagari/from-research-paper-to-prototype-using-generative-ai-to-automatically-generate-test-cases-bd587d894ae5)
+
+---
+
 Written by Pavan Kumar Appannagari — Software Engineer — Mobile Systems & Applied AI
 
 
