@@ -1,6 +1,6 @@
 baseURL = "https://Pavan-Kumar-Appannagari.github.io/"
 languageCode = "en-us"
-title = "Pavan’s Mobile Architecture Notes"
+title = "Pavan’s Engineering Notes"
 theme = "PaperMod"
 paginate = 10
 enableRobotsTXT = true
