@@ -205,6 +205,12 @@ Written by Pavan Kumar Appannagari — Software Engineer — Mobile Systems & Ap
 
 ---
 
+**Also published on:**
+* **DEV Community:** [Feature Parity Bugs Aren’t Testing Failures](https://dev.to/pavan-kumar-appannagari/feature-parity-bugs-arent-testing-failures-theyre-architectural-3ge8)
+* **Medium:** [Feature Parity Bugs Aren’t Testing Failures](https://medium.com/@pavan.kumar.appannagari/why-feature-parity-bugs-are-architectural-not-testing-failures-0e51c8c3ab9e)
+
+---
+
 ## Behavioral Consistency Series
 
 1. [Part 1 — The Doppelgänger Dilemma](/posts/mobile-architecture-doppelganger-dilemma/)

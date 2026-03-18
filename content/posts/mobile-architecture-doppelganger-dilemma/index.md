@@ -244,6 +244,12 @@ Written by Pavan Kumar Appannagari — Software Engineer — Mobile Systems & Ap
 
 ---
 
+**Also published on:**
+* **DEV Community:** [The Doppelgänger Dilemma](https://dev.to/pavan-kumar-appannagari/the-doppelganger-dilemma-why-your-mobile-apps-look-alike-but-act-like-strangers-1jkk)
+* **Medium:** [The Doppelgänger Dilemma](https://medium.com/@pavan.kumar.appannagari/the-doppelg%C3%A4nger-dilemma-why-your-mobile-apps-look-alike-but-act-like-strangers-a0d01e0e6388)
+
+---
+
 ## Behavioral Consistency Series
 
 1. **Part 1 — The Doppelgänger Dilemma** *(this article)*
