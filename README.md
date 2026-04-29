@@ -19,6 +19,9 @@ https://pavan-kumar-appannagari.github.io/posts/feature-parity-architectural-not
 • From Research Paper to Prototype: Using Generative AI to Automatically Generate Test Cases
 https://pavan-kumar-appannagari.github.io/posts/genai-to-generate-test-cases/
 
+• Building Reliable AI Systems: Why Prompting Isn’t Enough
+https://pavan-kumar-appannagari.github.io/posts/building-reliable-ai-systems/
+
 ---
 
 ## Current Focus
